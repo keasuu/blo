@@ -24,10 +24,19 @@
 
 .box1{
     background-color: #ef71e7;
+    border-radius: 50%;
+    line-height: 200px;
+    text-align: center;
 }
 .box2{
     background-color: #4fffb6;
+    border-radius: 50%;
+    line-height: 200px;
+    text-align: center;
 }
 .box3{
     background-color: #6291fe;
+    border-radius: 50%;
+    line-height: 200px;
+    text-align: center;
 }
